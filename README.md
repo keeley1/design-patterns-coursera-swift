@@ -6,3 +6,4 @@ This course covers behavioural, structural, and creational patterns.
 
 ### Topics covered so far:
 - Singleton pattern
+- Factory method pattern
