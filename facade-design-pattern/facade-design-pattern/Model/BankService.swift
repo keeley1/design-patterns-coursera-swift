@@ -3,7 +3,7 @@ import Foundation
 // Bank service class is the facade class
 // public methods are simple to use, show no hint of underlying interface + implementation
 class BankService {
-    // set to private - information hiding design principle 
+    // set to private - information hiding design principle
     private var bankAccounts: [Account] = []
     
     func createNewAccount(accountType: String) {
