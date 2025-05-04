@@ -5,5 +5,10 @@ Code associated with implementing Coursera Design Patterns (University of Albert
 This course covers behavioural, structural, and creational patterns.
 
 ### Topics covered so far:
+#### Creational design patterns:
 - Singleton pattern
 - Factory method pattern
+
+#### Structural design patterns:
+- Facade pattern
+- Adapter pattern
